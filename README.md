@@ -23,5 +23,17 @@ Mein Ziel ist es bis Ende der Lernperiode 5:
  [ ] Modul auftrag lösen
  [ ] Aufträge Nachholen (falls nötig) 
  [ ] HTML und CSS File (mehr CSS bearbeitungen einführen) 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an meiner neuen Website gearbeitet, ich habe ein paar Auftröge gelöst, welche ich am Mittwoch nicht beenden konnte. Nun Habe ich eine Navigationsleiste auf meiner Website versucht. Sie ist mir gelungen, jedoch möchte ich diese noch schöner ausbauen. 
+![image](https://github.com/Siewja/Lern-Periode-5/assets/142606001/5b2696c5-c0f1-49ec-a7e9-b9d0f73d843c)
+
+Ich habe gegoogled wie man den Hintergrund animieren kann, jedoch hat dies nicht geklappt. Ich konnte keine Bilder / URLS in meinen Code einfügen da es immer einen Error gab. Dies muss ich anschauen wie ich dies ändenr kann. 
+
+
+# 24.5.2024 
+[ ] Submit button einrichten, welches dann auf meine EMail sendet
+[ ] URLS Problem Codde herausfinden und beheben  
+[ ] Aufträge Nachholen (Projekte weiterführen) 
+[ ] Navigationbar ausbessern und schauen das diese auch funktioniert (auf nächste Seite swipen/ geführt werden etc) 
+ 
+
 
