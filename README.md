@@ -34,6 +34,17 @@ Ich habe gegoogled wie man den Hintergrund animieren kann, jedoch hat dies nicht
 [ ] URLS Problem Codde herausfinden und beheben  
 [ ] Aufträge Nachholen (Projekte weiterführen) 
 [ ] Navigationbar ausbessern und schauen das diese auch funktioniert (auf nächste Seite swipen/ geführt werden etc) 
+
+Ich in dieser Woche habe ich den submit Button eingerichtet welcher das Formular auf meine Email sended. Ich bin nun an einem Neuen projekt dran und zwar ein Formular auf einer Website zu erstellen, mit welcher Der Submitbutton alle daten ausgewertet per Email sended. Das Problem mit den URLs habe ich nicht herausgefunden. 
+
+# 31.05.2024
+
+[ ] Website gemäss Modul starten (CSS und HTML Start) 
+[ ] URLS Problem Codde herausfinden und beheben  
+[ ] Aufträge Nachholen (Projekte weiterführen) 
+[ ] Formular Design Css
+
+
  
 
 
