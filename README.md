@@ -39,12 +39,20 @@ Ich in dieser Woche habe ich den submit Button eingerichtet welcher das Formular
 
 # 31.05.2024
 
-[ ] Website gemäss Modul starten (CSS und HTML Start) 
-[ ] URLS Problem Codde herausfinden und beheben  
-[ ] Aufträge Nachholen (Projekte weiterführen) 
-[ ] Formular Design Css
+[x] Website gemäss Modul starten (CSS und HTML Start) 
+[x] URLS Problem Codde herausfinden und beheben  
+[x] Aufträge Nachholen (Projekte weiterführen) 
+[x] Formular Design Css
 
+In dieser Woche habe ich meine website gestartet und konnte 4 Unterseiten zusammenfügen. Das Peoblem mit dem URL konnte ich durch CHatGPT beheben, ich hatte eine falsche Code Struktur welche meine App nicht unterstützt hat. 
+Das Formular mit dem CSS habe ich begonnen und brauche nun nur noch die Email-PDF Connection zu machen. 
 
+# 7.6.2024
+
+[ ] EMail_PDF Pfad herstellen 
+[ ] Formular fragen einfügen (Design) 
+[ ] Wesbite für Schule Navigationsbar mit unterseiten verbinden 
+[ ] Modul 122 PAP/ Skriptsprache erstellen 
  
 
 
